@@ -19,7 +19,9 @@ export default function Articles () {
                             />
                         </div>
                         <div className="md:ml-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
-                            <h1 className="text-3xl">React.js for Web Development</h1>
+                            <Lin href="https://blog.openreplay.com/react-js-for-web-development">
+                                <h1 className="text-3xl">React.js for Web Development</h1>
+                            </Lin>
                             <p className="text-gray-500 text-sm">
                             Front-end frameworks and libraries are crucial to the process of creating a website. Therefore, libraries have become essential for creating high-performing responsive web pages and web-based apps.
                             </p>
@@ -38,7 +40,9 @@ export default function Articles () {
                             />
                         </div>
                         <div className="md:mr-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
-                            <h1 className="text-3xl">Serverless Authentication methods in web apps.</h1>
+                            <Lin href="https://www.red-gate.com/simple-talk/cloud/serverless-authentication-methods-in-web-apps/#related-content">
+                                <h1 className="text-3xl">Serverless Authentication methods in web apps.</h1>
+                            </Lin>
                             <p className="text-gray-500 text-sm">
                             Serverless authentication methods refer to approaches for managing user identity and access without the need for traditional server-based authentication systems.
                             </p>
@@ -56,9 +60,11 @@ export default function Articles () {
                             />
                         </div>
                         <div className="md:ml-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
-                            <h1 className="text-3xl">React.js for Web Development</h1>
+                            <Lin href="https://pieces.app/blog/image-manipulation-with-fabricjs-and-canvas">
+                                <h1 className="text-3xl">Fabric.js Image Manipulation with Canvas</h1>
+                            </Lin>
                             <p className="text-gray-500 text-sm">
-                            Front-end frameworks and libraries are crucial to the process of creating a website. Therefore, libraries have become essential for creating high-performing responsive web pages and web-based apps.
+                            Fabric.js was designed to tackle the difficulties of using the Canvas API. Learn how to integrate it into your projects with this in-depth explainer.
                             </p>
                             <p>Feb 1, 2023 </p>
                         </div>
