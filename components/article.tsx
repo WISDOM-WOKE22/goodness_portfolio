@@ -69,6 +69,26 @@ export default function Articles () {
                             <p>Feb 1, 2023 </p>
                         </div>
                     </section>
+
+                    <section className="w-full flex flex-col md:flex-row-reverse items-center border-y">
+                        <div className="relative w-full md:w-[50%] h-[300px]  md:h-[500px]">
+                            <Image
+                                className="cursor-pointer object-cover"
+                                src="/image4.webp"
+                                alt="article image"
+                                fill
+                            />
+                        </div>
+                        <div className="md:mr-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
+                            <Lin href="https://buttercms.com/blog/laravel-best-practices/">
+                                <h1 className="text-3xl">19+ Laravel Best Practices for Developers in 2024.</h1>
+                            </Lin>
+                            <p className="text-gray-500 text-sm">
+                            The necessity for clean, testable, scalable, and maintainable code, particularly in Laravel, has consistently pushed for adopting well-established best practices. 
+                            </p>
+                            <p>May 8, 2024</p>
+                        </div>
+                    </section>
                 </section>
                 <div className="flex justify-end mt-5">
                     <Lin href="/articles" className="flex flex-row gap-2 items-center">

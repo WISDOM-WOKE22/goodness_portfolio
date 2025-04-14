@@ -10,7 +10,7 @@ const bricolage = Bricolage_Grotesque({
 
 export const metadata: Metadata = {
   title: "Goodness Woke | Technical Writer | API Documentation | Product Documentation",
-  description: "Technical/Documentation Writer, has experience creating content and materials that ease onboarding into software development for beginners and enthusiasts.",
+  description: "Experienced Technical and Documentation writer with a talent for simplifying complex ideas. Multiple publications credits and adaptable writing style. Let me help you create content that engages and informs your audience.",
   keywords: [
     "Web Development",
     "Technical Writing",
@@ -18,6 +18,7 @@ export const metadata: Metadata = {
     "API Documentation",
     "Product Documentation",
     "Serverless",
+    "SEO Writing",
     "Software Engineer",
     "Frontend Developer",
     "Backend developer"
@@ -25,7 +26,7 @@ export const metadata: Metadata = {
   robots: "index, follow",
   openGraph: {
     title: "Goodness Woke | Technical Writer | API Documentation | Product Documentation",
-    description: "Technical/Documentation Writer, has experience creating content and materials that ease onboarding into software development for beginners and enthusiasts.",
+    description: "Experienced Technical and Documentation writer with a talent for simplifying complex ideas. Multiple publications credits and adaptable writing style. Let me help you create content that engages and informs your audience.",
     type: "website",
     locale: "en_US",
     siteName: "Goodness Woke Portfolio",
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Goodness Woke | Technical Writer | API Documentation | Product Documentation",
-    description: "Technical/Documentation Writer, has experience creating content and materials that ease onboarding into software development for beginners and enthusiasts.",
+    description: "Experienced Technical and Documentation writer with a talent for simplifying complex ideas. Multiple publications credits and adaptable writing style. Let me help you create content that engages and informs your audience.",
     creator: "@shutter_talesss"
   }
 };

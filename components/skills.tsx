@@ -20,6 +20,8 @@ export default function Skills () {
                     <Skill skill="Web developer"/>
                     <Skill skill="API Documentation"/>
                     <Skill skill="Product Documentation"/>
+                    <Skill skill="Frontend Developer"/>
+                    <Skill skill="SEO Writing"/>
                 </div>
             </div>
         </div>
