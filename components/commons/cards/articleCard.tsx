@@ -17,7 +17,7 @@ export default function ArticleCard ({ image, title, description, date, link }: 
                 <CardContent className="py-0 my-0 relative -top-4 h-16">
                     <h1 className="truncate">{title}</h1>
                     <p className="text-gray-500 text-sm truncate">{description}</p>
-                    {/* <p className="text-sm">{date}</p> */}
+                    <p className="text-[11px]">{date}</p>
                 </CardContent>
             </Card>
         </Link>

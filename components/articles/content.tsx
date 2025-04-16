@@ -7,7 +7,7 @@ export default function ArticleContent () {
         <div className="flex justify-between w-full max-w-6xl flex-col">
             <h1 className="text-4xl text-center">My Articles</h1>
             <p className="text-center mt-5">Here are my article i i&lsquo;ve written so far</p>
-            <section className="md:mt-20 mt-10 grid grid-cols-2 md:grid-cols-3 md:gap-4 w-full gap-2">
+            <section className="md:mt-20 mt-10 grid grid-cols-1 md:grid-cols-3 md:gap-4 w-full gap-2">
                 {
                     articles.map((article, index) => (
                         <ArticleCard 
