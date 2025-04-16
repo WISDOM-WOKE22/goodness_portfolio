@@ -26,7 +26,7 @@ export default function Header () {
                             <p className="cursor-pointer">About</p>
                         </Link>
                         <Link href="/articles">
-                            <p className="cursor-pointer">articles</p>
+                            <p className="cursor-pointer">Articles</p>
                         </Link>
                         <Link href="/#contact">
                             <p className="cursor-pointer">Contact</p>
@@ -45,17 +45,17 @@ export default function Header () {
                             </DropdownMenuTrigger>
                             <DropdownMenuContent align="end">
                                 <DropdownMenuItem>
-                                    <Link href='/#about'>
+                                    <Link href='/#about' className="w-full">
                                         <p className="cursor-pointer">About</p>
                                     </Link>
                                 </DropdownMenuItem>
                                 <DropdownMenuItem>
-                                    <Link href="/articles">
-                                        <p className="cursor-pointer">articles</p>
+                                    <Link href="/articles" className="w-full">
+                                        <p className="cursor-pointer">Articles</p>
                                     </Link>
                                 </DropdownMenuItem>
                                 <DropdownMenuItem>
-                                    <Link href='/#contact'>
+                                    <Link href='/#contact' className="w-full">
                                         <p className="cursor-pointer">Contact</p>
                                     </Link>
                                 </DropdownMenuItem>

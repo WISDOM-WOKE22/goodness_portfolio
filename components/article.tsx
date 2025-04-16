@@ -19,7 +19,7 @@ export default function Articles () {
                             />
                         </div>
                         <div className="md:ml-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
-                            <Lin href="https://blog.openreplay.com/react-js-for-web-development">
+                            <Lin href="https://blog.openreplay.com/react-js-for-web-development" target="_blank">
                                 <h1 className="text-3xl">React.js for Web Development</h1>
                             </Lin>
                             <p className="text-gray-500 text-sm">
@@ -40,7 +40,7 @@ export default function Articles () {
                             />
                         </div>
                         <div className="md:mr-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
-                            <Lin href="https://www.red-gate.com/simple-talk/cloud/serverless-authentication-methods-in-web-apps/#related-content">
+                            <Lin href="https://www.red-gate.com/simple-talk/cloud/serverless-authentication-methods-in-web-apps/#related-content" target="_blank">
                                 <h1 className="text-3xl">Serverless Authentication methods in web apps.</h1>
                             </Lin>
                             <p className="text-gray-500 text-sm">
@@ -60,7 +60,7 @@ export default function Articles () {
                             />
                         </div>
                         <div className="md:ml-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
-                            <Lin href="https://pieces.app/blog/image-manipulation-with-fabricjs-and-canvas">
+                            <Lin href="https://pieces.app/blog/image-manipulation-with-fabricjs-and-canvas" target="_blank">
                                 <h1 className="text-3xl">Fabric.js Image Manipulation with Canvas</h1>
                             </Lin>
                             <p className="text-gray-500 text-sm">
@@ -80,7 +80,7 @@ export default function Articles () {
                             />
                         </div>
                         <div className="md:mr-10 w-full md:w-[50%] space-y-5 max-md:mb-10 max-md:mt-5">
-                            <Lin href="https://buttercms.com/blog/laravel-best-practices/">
+                            <Lin href="https://buttercms.com/blog/laravel-best-practices/" target="_blank">
                                 <h1 className="text-3xl">19+ Laravel Best Practices for Developers in 2024.</h1>
                             </Lin>
                             <p className="text-gray-500 text-sm">
