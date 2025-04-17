@@ -13,6 +13,11 @@ export default function WorkLife () {
                 </div>
                 <div className="mt-10 space-y-5">
                     <Work
+                        company="Simple Talk, Contract Technical Author"
+                        description="Writing technical contents on Backend, database and serverless technologies."
+                        date="MAY 2022 - PRESENT"
+                    />
+                    <Work
                         company="ButterCMS, Contract Technical Author"
                         description="Writing technical content on frontend and backend technologies"
                         date="MAY 2022 - PRESENT"
