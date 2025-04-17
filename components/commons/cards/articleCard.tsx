@@ -42,7 +42,7 @@ export default function ArticleCard ({ image, title, description, date, link, bl
                     />
                 </div>
                 <div className="flex justify-center items-center">
-                    <Lin href={link} target="_blank">
+                    <Lin href={link} target="_blank" className="cursor">
                         <div className="p-1.5 text-sm border rounded-lg flex flex-row items-center gap-2">
                             <Link size={20}/>
                             <p>View article</p>
