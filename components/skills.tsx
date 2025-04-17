@@ -17,7 +17,7 @@ export default function Skills () {
 
                 <div className="mt-14 grid gap-10 grid-cols-1 md:grid-cols-2 w-full">
                     <Skill skill="Technical Writing"/>
-                    <Skill skill="Web developer"/>
+                    {/* <Skill skill="Web developer"/> */}
                     <Skill skill="API Documentation"/>
                     <Skill skill="Product Documentation"/>
                     <Skill skill="Frontend Developer"/>
