@@ -28,7 +28,7 @@ export default function Hero () {
                     <h1 className="text-4xl sm:text-6xl">I&apos;m Goodness Woke, <br/> <span ref={el}></span></h1>
                     <p className="mt-6 text-[18px] text-[#686868] w-full max-w-3xl">Experienced Technical and Documentation writer with a talent for simplifying complex ideas. Multiple publications credits and adaptable writing style. Let me help you create content that engages and informs your audience.</p>
 
-                    <Link href="https://docs.google.com/document/d/1nbPnbXnbddmoDCcx631PL0l-Xh_QSw_5bJtzPMOKtbU/edit" target="_blank" className="group flex flex-col gap-1 cursor-pointer mt-10 w-fit">
+                    <Link href="https://docs.google.com/document/d/179PAr8AqA4uCw1KrECMbdqNU7H2mc5mPth1hU4owqdg/edit?tab=t.0" target="_blank" className="group flex flex-col gap-1 cursor-pointer mt-10 w-fit">
                         <div className="flex flex-row gap-3 items-center">
                             <h2 className="text-2xl">My Resume</h2>
                             <MoveUpRight/>
